@@ -1,2 +1,3 @@
-# cashapp-referral-bot
-Used to get money from cashapp referral codes.
+README PLS
+  This is a end of year project I'm making for friends and its not expected to fully work until I figure out how to properly code this.
+  
